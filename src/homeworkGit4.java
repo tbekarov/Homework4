@@ -4,5 +4,6 @@ public class homeworkGit4 {
         System.out.println("Homework commit 2");
         System.out.println("Commit 1");
         int a = 6;
+        int b = 4;
     }
 }
